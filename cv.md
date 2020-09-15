@@ -3,6 +3,6 @@
 2. Contacts for communication:
 * **Phone:** +375445759569
 * **E-mail:** pinchers17@mail
-3. Хочу получить новые знания и практические навыки. Я буду много работать и постараюсь сделать все чтобы стать фронтенд разработчиком
-4. I have knowledge of a basic JavaScript, CSS and HTML.
+3. I want to gain new knowledge and practical skills. I will work hard and try to do everything to become a front-end developer
+4. I have knowledge of a basic *JavaScript*, *CSS* and *HTML*.
 5. Higher education qualification: engineer.
