@@ -1,0 +1,70 @@
+html, body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: #090909;
+}
+
+
+.block__1{
+    width: 940.6px;
+    margin: 30px auto 0 auto;
+
+}
+
+.resume{
+    text-align: center;
+    font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: rgba(242, 242, 242, 0.88);
+}
+
+.photo__img{
+    width: 431px;
+    height: 580px;
+}
+
+.all__block{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+}
+
+.all__text{
+    width: 471px;
+    margin-top: -50px;
+}
+
+.my__name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 87px;
+    color: rgba(242, 242, 242, 0.88);
+    margin-top: 40px;
+    margin-bottom: 15px;
+    margin-left: -6px;
+}
+
+.border{
+    width: 471px;
+    height: 3px;
+    background: rgba(242, 242, 242, 0.88);
+}
+
+.text__resume{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 34px;
+    color: rgba(242, 242, 242, 0.88);
+}
+
+.text__bold{
+    font-weight: bold;
+}
+
+.div__text{
+    margin-top: 35px;
+}
